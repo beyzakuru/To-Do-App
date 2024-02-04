@@ -1,16 +1,10 @@
-# todo_app
+# To Do App
 
-A new Flutter project.
+- SqfLite kullanılarak basit bir arayüz ile geliştirilmiş todo uygulamasıdır.
+- Listeye yeni görev ekleyebilir, var olan görevi güncelleyebilir. Veyahut tamamen silebilirsiniz.
 
-## Getting Started
+## Uygulamanın Görselleri
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![todo1](https://github.com/beyzakuru/To-Do-App/assets/88837400/ac650b50-c5fb-4572-926a-213bc28762aa)
+![todo2](https://github.com/beyzakuru/To-Do-App/assets/88837400/694b6028-edd3-4e4f-a321-bb2f17f343a9)
+![todo3](https://github.com/beyzakuru/To-Do-App/assets/88837400/d50e5ba3-af8a-4108-8949-c6ffb078d120)
